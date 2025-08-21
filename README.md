@@ -40,7 +40,9 @@ Say commands like:
 📂 Project Structure
 ```bash
 whispy/
-│── core.ipynb      # Main app
+│── model        # model
+│── main.ipynb            # main app
+│── core.ipynb         # testing file
 │── requirements.txt   # Dependencies
 │── .gitignore         # Ignore files
 │── README.md          # Project docs
